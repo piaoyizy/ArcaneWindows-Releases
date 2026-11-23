@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "appId": "arcane.windows",
+  "platform": "windows",
+  "arch": "x64",
+  "versionName": "1.0.15",
+  "versionCode": 3,
+  "notes": "Windows 在线更新测试版：\n1. 独立 autoupdate.exe 负责备份、替换和重新启动播放器。\n2. 多镜像并行检查版本，下载前自动测速，失败自动换线。\n3. 更新包包含 Arcane.exe、data/app.so、autoupdate.exe 及校验清单。本次宿主源码变更，额外携带约 0.9 MB 的 node.bin、python.bin 加密资源，确保密钥匹配。\n4. 保留现有 DLL、其他资源、运行时和用户数据。\n",
+  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-3/arcane-Windows-1.0.15-update.zip",
+  "sha256": "f131c3688907680c4c37031a5f35710b6e65d3a22ae55c49d5424efc398c5ba2",
+  "sizeBytes": 7740410
+}
