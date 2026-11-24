@@ -3,10 +3,10 @@
   "appId": "arcane.windows",
   "platform": "windows",
   "arch": "x64",
-  "versionName": "1.0.19",
-  "versionCode": 7,
+  "versionName": "1.0.20",
+  "versionCode": 8,
   "notes": "Arcane Windows 1.0.16\n\n更新日志：\n1. 播放器布局重构。\n2. 修复一些已知BUG。\n\n更新提示：\n更新完成后播放器将自动重新打开，保留原有订阅、设置和播放记录。\n",
-  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-7/arcane-Windows-1.0.19-update.zip",
-  "sha256": "9e772ec2d6c14712b702322cd495d8448f341ea850e1cadc8e1c4307e968650e",
-  "sizeBytes": 7809555
+  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-8/arcane-Windows-1.0.20-update.zip",
+  "sha256": "85ca680113612c786f857c923c8dda96d1d670e8dd84a9740d3b61cd70fe33f9",
+  "sizeBytes": 7810049
 }
