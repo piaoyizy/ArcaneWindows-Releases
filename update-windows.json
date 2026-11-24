@@ -3,10 +3,10 @@
   "appId": "arcane.windows",
   "platform": "windows",
   "arch": "x64",
-  "versionName": "1.0.22",
-  "versionCode": 10,
-  "notes": "## 1.0.22\n\n### 新增\n- 记住窗口最大化和播放全屏状态。\n\n### 优化\n- 调整首页标题、评分及按钮布局。\n- 优化分类筛选的鼠标高亮效果。\n- 播放信息按钮点击后直接打开内容。\n- WebHome 顶部控件感应区域缩小为 5 像素。\n- 服务状态提示统一使用“Node.js 服务”。\n\n### 修复\n- 修复播放标题中集数重复显示的问题。\n- 修复演员、推荐片名在深色背景下看不清的问题。\n- 修复预告片播放时鼠标滚轮无法滚动页面的问题。",
-  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-10/arcane-Windows-1.0.22-update.zip",
-  "sha256": "477911a1b1957b7aab4549cf0f346ffb33924a2116ba6ecf9507a3841a83b719",
-  "sizeBytes": 7813861
+  "versionName": "1.0.23",
+  "versionCode": 11,
+  "notes": "## 1.0.23\n\n### 新增\n- 记住窗口最大化和播放全屏状态。\n\n### 优化\n- 调整首页标题、评分及按钮布局。\n- 优化分类筛选的鼠标高亮效果。\n- 播放信息按钮点击后直接打开内容。\n- WebHome 顶部控件感应区域缩小为 5 像素。\n- 服务状态提示统一使用“Node.js 服务”。\n\n### 修复\n- 修复播放标题中集数重复显示的问题。\n- 修复演员、推荐片名在深色背景下看不清的问题。\n- 修复预告片播放时鼠标滚轮无法滚动页面的问题。",
+  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-11/arcane-Windows-1.0.23-update.zip",
+  "sha256": "f55420de0d40338c9c24af54f80f0ac9b7653edc34cf9e457e545ce236aa11fc",
+  "sizeBytes": 7814270
 }
