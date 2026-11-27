@@ -3,10 +3,10 @@
   "appId": "arcane.windows",
   "platform": "windows",
   "arch": "x64",
-  "versionName": "1.0.30",
-  "versionCode": 17,
-  "notes": "## 1.0.30\n\n  ### 日志：\n    1、修复已知bug，新增未知bug。\n    2、内置logver服务。\n",
-  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-17/arcane-Windows-1.0.30-update.zip",
-  "sha256": "c8e4be3791bf7e80278fe1e6307b28b6cd34f8c4857656f103cebbcb3e3ef901",
-  "sizeBytes": 7910291
+  "versionName": "1.0.31",
+  "versionCode": 19,
+  "notes": "## 1.0.31\n\n  ### 日志：\n    1、修复已知bug，新增未知bug。\n    2、内置logver服务。\n",
+  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-19/arcane-Windows-1.0.31-update.zip",
+  "sha256": "1f43101ce030bbbf6af762ebb5dd85a7d6f6b07871b5d8b0f03bdaca03a95d74",
+  "sizeBytes": 7929981
 }
