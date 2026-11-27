@@ -3,10 +3,10 @@
   "appId": "arcane.windows",
   "platform": "windows",
   "arch": "x64",
-  "versionName": "1.0.29",
-  "versionCode": 16,
-  "notes": "## 1.0.29\n\n### 新增\n- 平滑换集（beta）\n- 记住窗口最大化和播放全屏状态。（全屏的时候屏蔽进出场动画）\n- 屏显-剩余时间。\n- 全屏屏显-进度条常显。\n- 设置-自定义字体。\n- 首页右键-自定义卡片大小，修改同步首页 加载更多 历史观看页面。\n\n### 优化\n- 调整首页标题、评分及按钮布局。\n- 优化分类筛选的鼠标高亮效果。\n- 播放信息按钮点击后直接打开内容。\n- WebHome 顶部控件感应区域缩小为 5 像素。\n- 服务状态提示统一使用“Node.js 服务”。\n\n### 修复\n- 修复一些BUG。\n- 播放器内标题、集数显示修复。\n- 修复播放标题中集数重复显示的问题。\n- 修复演员、推荐片名在深色背景下看不清的问题。\n- 修复预告片播放时鼠标滚轮无法滚动页面的问题。",
-  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-16/arcane-Windows-1.0.29-update.zip",
-  "sha256": "f309f720346c8bfda928b079b87166b7528689ac850ec0da3635880b2d34011b",
-  "sizeBytes": 7862873
+  "versionName": "1.0.30",
+  "versionCode": 17,
+  "notes": "## 1.0.30\n\n  ### 日志：\n    1、修复已知bug，新增未知bug。\n    2、内置logver服务。\n",
+  "zipUrl": "https://github.com/piaoyizy/ArcaneWindows-Releases/releases/download/windows-17/arcane-Windows-1.0.30-update.zip",
+  "sha256": "c8e4be3791bf7e80278fe1e6307b28b6cd34f8c4857656f103cebbcb3e3ef901",
+  "sizeBytes": 7910291
 }
